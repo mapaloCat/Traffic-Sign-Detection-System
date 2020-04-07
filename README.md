@@ -42,4 +42,9 @@ This repository is about a Computer Vision project that aims at building a traff
 94.85% = 8 AP  
 88.89% = 9 AP  
 mAP = 84.50%     
-Traffic sign detection took 738.1926345825195 seconds  
+Traffic sign detection took 738.1926345825195 seconds
+
+# Dependencies 
+Python = 3.6  
+TensorFlow = 1.15  
+Keras = 2.1.6  
