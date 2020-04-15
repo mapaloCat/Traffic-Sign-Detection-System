@@ -2,6 +2,8 @@
 
 This repository is about a Computer Vision project that aims at building a traffic sign detection algorithm. The “detector" CNN determines whether a region proposal is a traffic sign or background noise and it classifies it to the corresponding class. In the current implementation, the background noise constitutes an extra class to the 43 classes of the ground truth traffic signs. The presented solution achieves 84.5% mAP (mean Average Precision) in a test set composed of 300 images. The execution time is 738 seconds. The data are available online at the German Traffic Sign Detection Benchmark website.
 
+Here is the link to download the weights for the RPN: https://drive.google.com/open?id=1cin67CB4yR2w1QYxMmwrhF4OiGN0OTyJ
+
 # Sample results obtained using the traffic sign detector
 84.78% = 1 AP  
 74.41% = 10 AP  
